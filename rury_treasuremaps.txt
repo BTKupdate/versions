@@ -1,1 +1,1 @@
-{"version": "1.0.1", "description": "Fixed a bug that allowed collecting all chests in one location"}
+{"version": "1.1.0", "description": "Server side of the script has been completely redesigned\nNow Standalone is supported and can be used without items metadata"}
