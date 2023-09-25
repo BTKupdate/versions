@@ -9,4 +9,7 @@
 \n1.2.1: 
 \nFixed - most clothes were unavailable
 \nFixed - after resetting clothes in the wardrobe, after canceling the edit, the character remained without clothes
+
+\n1.2.2:
+\nFixed a problem with incorrect saving of character data
 "}
