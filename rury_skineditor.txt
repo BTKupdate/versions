@@ -1,15 +1,1 @@
-{"version": "1.2.1", "description": "
-\n1.2.0 
-\nAdded open files for easier setup for frameworks
-\nFor ESX, installing a script on the server has been simplified, now you just need to remove the esx-skin, skinchanger and esx-clothes scripts (Don't forget to remove dependencies in fxmanifest for scripts that need these resources) and run skineditor, all events are replaced and the editor will start working immediately after launch
-(For QBCore, the same easy installation is available from version 1.0.1)
-\nAdded the ability to add clothes to the blacklist or allow access only to certain job
-\nAdded the ability to specify the name of the clothing
-
-\n1.2.1
-\nFixed - most clothes were unavailable
-\nFixed - after resetting clothes in the wardrobe, after canceling the edit, the character remained without clothes
-
-\n1.2.2
-\nFixed a problem with incorrect saving of character data
-"}
+{"version": "1.2.1", "description": "\n1.2.0 \nAdded open files for easier setup for frameworks\nFor ESX, installing a script on the server has been simplified, now you just need to remove the esx-skin, skinchanger and esx-clothes scripts (Don't forget to remove dependencies in fxmanifest for scripts that need these resources) and run skineditor, all events are replaced and the editor will start working immediately after launch(For QBCore, the same easy installation is available from version 1.0.1)\nAdded the ability to add clothes to the blacklist or allow access only to certain job\nAdded the ability to specify the name of the clothing\n1.2.1\nFixed - most clothes were unavailable\nFixed - after resetting clothes in the wardrobe, after canceling the edit, the character remained without clothes\n1.2.2\nFixed a problem with incorrect saving of character data"}
