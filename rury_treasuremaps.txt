@@ -5,4 +5,5 @@
     \n* Fixed a typo in fxmanifest that caused client-side frameworks to not work
     \n* Updated functions for working with the ox-inventory
     \n* Added extraRewards function, for additional rewards that you can specify yourself, available in the file server/custom/utils.lua
+    "
 }
